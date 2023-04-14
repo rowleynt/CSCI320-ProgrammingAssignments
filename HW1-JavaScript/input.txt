@@ -1,0 +1,5 @@
+🐈, Cat (U+1F408)
+🛩, Airplane (U+1F6E9)
+🐕, Dog (U+1F415)
+🏠, House (U+1F3E0)
+🐿, Chipmunk (U+1F43F)
